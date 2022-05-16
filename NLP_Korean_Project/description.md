@@ -12,3 +12,4 @@
     - [ainize 사이트를 활용한 뉴스 생성](https://juwon2021.tistory.com/396)
     - [Telegram Chatbot](https://juwon2021.tistory.com/402)
 4. 분석 정리
+    - [link](https://juwon2021.tistory.com/401)
